@@ -1,7 +1,6 @@
 📌 Recruitment Analysis Dashboard | Power BI Project
 
-The Recruitment Analysis Dashboard is an interactive HR analytics solution designed to monitor and optimize the recruitment process. It provides actionable insights into hiring performance, recruiter productivity, application flow, and workforce planning.
-
+The Recruitment Analysis Dashboard is an interactive HR analytics solution designed to monitor and optimize the recruitment process. It provides actionable insights into hiring performance, recruiter productivity, application flow, and workforce plannng.
 🎯 Key Objectives
    • Analyze recruitment and hiring performance
    • Track recruiter efficiency and hiring completion
