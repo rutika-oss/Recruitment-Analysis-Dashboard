@@ -26,7 +26,8 @@ Identify over-hiring, under-hiring, and successful hiring trends effectively.
 
 🖼️ Dashboard Preview
 📌 Recruitment Analysis Dashboard
-<img width="100%" alt="Recruitment Dashboard" src="your-dashboard-image-link-here"/>
+<img width="1298" height="736" alt="snapshot of dashboard" src="https://github.com/user-attachments/assets/650004f4-b483-4186-9b51-54b349ce8478" />
+
 
 💡 Interactive dashboard designed for data-driven recruitment management.
 
