@@ -37,6 +37,9 @@ Special thanks to mentors, learning platforms, and online resources that support
 ## 👨‍💻 About Me
 
 I am passionate about transforming raw data into meaningful insights using Power BI, SQL, Python, and Excel. I enjoy building interactive dashboards and solving business problems through data-driven decision-making.
+manerutika48@gmail.com
+www.linkedin.com/in/rutika-mane-121a0526a
+
 
 🚀 Continuously learning, building, and exploring opportunities in Data Analytics & Business Intelligence.
 
