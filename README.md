@@ -33,4 +33,4 @@ I am passionate about transforming raw data into meaningful insights using Power
 
 🚀 Continuously learning, building, and exploring opportunities in Data Analytics & Business Intelligence.
 
-#PowerBI #DataAnalytics #BusinessIntelligence #HRAnalytics #DashboardDesign #SQL #Python #DataVisualization #AnalyticsProject
+#PowerBI #DataAnalytics #BusinessIntelligence #HRAnalytics #DashboardDesign #SQL #Python #DataVisualization #AnalyticsProjects
