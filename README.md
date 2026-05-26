@@ -19,6 +19,8 @@ The Recruitment Analysis Dashboard is an interactive HR analytics solution desig
 * Recruiter performance tracking
 * Department-wise hiring analysis
 * Candidate pipeline and recruitment status overview
+  <img width="1298" height="736" alt="snapshot of dashboard" src="https://github.com/user-attachments/assets/81e014e0-d0ac-4da7-a915-1d440acb89dc" />
+
 
 ## 🛠️ Tools & Technologies Used
 
